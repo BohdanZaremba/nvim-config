@@ -1,0 +1,3 @@
+npm install -g typescript &&
+npm install -g vue-language-server &&
+sudo apt-get install ripgrep

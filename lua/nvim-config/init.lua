@@ -1,0 +1,6 @@
+require("nvim-config.set")
+require("nvim-config.autocmd")
+require("nvim-config.remap")
+require("nvim-config.lazy_init")
+require("nvim-config.dap_init")
+-- require("nvim-config.godot")
